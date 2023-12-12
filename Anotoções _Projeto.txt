@@ -1,0 +1,18 @@
+Anotações ---------
+
+<header>
+</header> // tag de cabeçalho
+
+<main>
+</main> // tag principal
+
+<footer>
+</footer> // rodapé
+
+<strong>
+</strong> // Deixa em negrito aaaaaaaaaa
+
+Google fonts - Pode ajudar na estilização das fontes
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - Link de
+um guia de espaçamento ... se der dou uma olhada
